@@ -19,10 +19,28 @@ main
     margin-bottom: 5%;
 }
 
-li
+/* -----------------------------------EXPERIENCE/COMPETENCES------------------------- */
+#listecompetences
 {
     list-style: none;
+    padding-left: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.aligndroite
+{
+    padding-top: 5%;
+    text-align: right !important;
+}
+
+h3
+{
+    color: cyan;
+    font-style: italic;
+}
+
+/* ------------------------------------FORMATIONS----------------------- */
+
 
 /* ---------------------------FOOTER------------------------------------ */
 footer

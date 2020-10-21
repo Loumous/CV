@@ -15,7 +15,7 @@
         <a class="nav-link" href="etudes.php">Etudes</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="expcomp.php">Experiences</a>
+        <a class="nav-link" href="expcomp.php">Experiences/Compétences</a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="formations.php">Formations</a>
