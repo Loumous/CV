@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php require("component/head.php")?>
 
 <body>
+
+    <?php require("component/head.php")?>
     <?php require("component/navbar.php")?>
     <form class="col-6 m-auto">
     <fieldset class="border p-3">
