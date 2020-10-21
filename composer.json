@@ -1,0 +1,15 @@
+{
+    "name": "lou/cv",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.5",
+        "components/jquery": "^3.5"
+    },
+    "license": "gpl 3.0",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "marielouisedonzallaz@gmail.com"
+        }
+    ]
+}
