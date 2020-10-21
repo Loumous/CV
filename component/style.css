@@ -4,7 +4,49 @@ body
     color: cornsilk;
 }
 
+/* -----------------------------------PRESENTATION---------------------------- */
+h1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    padding-bottom: 1.5em;
+}
+
+main
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
 li
 {
     list-style: none;
+}
+
+/* ---------------------------FOOTER------------------------------------ */
+footer
+{
+    text-align: center;
+}
+
+.sociaux
+{
+    padding: 1em;
+}
+
+#github
+{
+    width: 5em;
+}
+
+#facebook
+{
+    width: 5em;
+    margin: 0.3em;
+}
+
+#twitter
+{
+    width: 5.2em;
 }
