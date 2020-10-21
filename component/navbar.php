@@ -8,19 +8,19 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="index.php">Présentation</a>
+        <a class="nav-link" href="presentation.php">Présentation</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="Etudes.php">Etudes</a>
+      <li class="nav-item active">
+        <a class="nav-link" href="etudes.php">Etudes</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="Experiences.php">Experiences</a>
+      <li class="nav-item active">
+        <a class="nav-link" href="expcomp.php">Experiences</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="Formations.php">Formations</a>
+      <li class="nav-item active">
+        <a class="nav-link" href="formations.php">Formations</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="Compétences.php">Compétences</a>
+      <li class="nav-item active">
+        <a class="nav-link" href="contact.php">contact</a>
       </li>
     </ul>
   </div>

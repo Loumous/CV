@@ -2,12 +2,12 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <?php require("component/head.php")?>
     <title>Formation</title>
 </head>
 <body>
     <header>
     <?php require("component/navbar.php")?>
-    <?php require("component/head.php")?>
     </header>
     <main>
     <h1>Formations</h1>

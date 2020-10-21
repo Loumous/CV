@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="fr">
-
+<?php require("component/head.php")?>
 <body>
-
-    <?php require("component/head.php")?>
+    <main>
     <?php require("component/navbar.php")?>
     <form class="col-6 m-auto">
     <fieldset class="border p-3">
@@ -27,7 +26,13 @@
         </div>
     </fieldset>
     </form>
+
+    <p>03/1992
+    06 69 56 68 06
+    marielouisedonzallaz@gmailPermis B et véhicule
+    </p>
     <?php require("footer.php")?>
+    </main>
 </body>
 <?php require("component/script.php")?>
 </html>
