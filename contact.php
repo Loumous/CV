@@ -4,8 +4,13 @@
 <body>
     <main>
     <?php require("component/navbar.php")?>
+    <p>
+    06 69 56 68 06
+    marielouisedonzallaz@gmail 
+    <!-- mettre map -->
+    </p>
     <form class="col-6 m-auto">
-    <fieldset class="border p-3">
+    <fieldset class="border p-5">
         <legend>Contact</legend>
         <div class="form-group">
             <label for="email">Adresse mail :</label>
@@ -27,11 +32,7 @@
     </fieldset>
     </form>
 
-    <p>03/1992
-    06 69 56 68 06
-    marielouisedonzallaz@gmailPermis B et véhicule
-    </p>
-    <?php require("footer.php")?>
+    <?php require("component/footer.php")?>
     </main>
 </body>
 <?php require("component/script.php")?>
